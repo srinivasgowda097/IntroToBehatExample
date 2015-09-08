@@ -14,3 +14,4 @@ Feature:
     Given I am not signed in
     When I go to "http://www.meetup.com/sf-php/"
     Then I should see upcoming and past events for the group
+df
