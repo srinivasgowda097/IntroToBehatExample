@@ -30,4 +30,4 @@ mkdir -p selenium && \
     then
         cp sample-configuration.yml configuration.yml
     fi
-}
+}//
